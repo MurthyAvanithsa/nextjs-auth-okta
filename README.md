@@ -19,6 +19,7 @@ You can use the existing OKTA provider  multiple time and override the values to
 
 Export unique ENV for CLIENT_ID,CLIENT_SECRET domain 
 
+api/auth/[...nextauth].js file
 > 
 ````
  providers: [
